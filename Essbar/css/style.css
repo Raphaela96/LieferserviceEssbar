@@ -1,0 +1,27 @@
+header i {
+  float:right;
+  font-size: 180%;
+}
+
+h1{
+  text-align: center;
+}
+
+.Gliederung {
+  text-align: 40%;
+  float:left;
+  margin: 20px;
+  width: 20%;
+  line-height: 1.5;
+}
+
+.Gliederung #Bestellauswahl {
+  margin-left: -30%;
+}
+
+
+
+a {
+  text-decoration: none;
+  color:black;
+}

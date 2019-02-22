@@ -1,0 +1,32 @@
+header i {
+  float:right;
+  font-size: 180%;
+}
+
+h1{
+  text-align: center;
+}
+
+.Frühstück {
+  float:right;
+  width:35%;
+}
+
+.hidden{
+  display: none;
+}
+
+.Frühstück img {
+  width: 50%;
+  height: auto;
+}
+
+.Vegetarisch{
+  float:right;
+  width:35%;
+}
+
+.Vegetarisch img{
+  width: 50%;
+  height: auto;
+}

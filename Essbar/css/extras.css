@@ -1,0 +1,72 @@
+
+
+h1{
+  text-align: center;
+}
+
+.Brötchen {
+  float:right;
+  width:35%;
+}
+
+.hidden{
+  display: none;
+}
+
+.Brötchen img {
+  width: 50%;
+  height: auto;
+}
+
+.Baguette{
+  float:right;
+  width:35%;
+  margin-bottom: 8%;
+}
+
+.Baguette img{
+  width: 50%;
+  height: auto;
+}
+
+.Crossaint{
+  float:right;
+  width:35%;
+  margin-bottom: 8%;
+}
+
+.Crossaint img{
+  width: 50%;
+  height: auto;
+}
+
+.Brezel{
+  float:right;
+  width:35%;
+  margin-bottom: 8%;
+}
+
+.Brezel img{
+  width: 50%;
+  height: auto;
+}
+
+.JoghurtMüsli{
+  float:right;
+  width:35%;
+}
+
+.JoghurtMüsli img{
+  width: 50%;
+  height: auto;
+}
+
+.Obstsalat{
+  float:right;
+  width:35%;
+}
+
+.Obstsalat img{
+  width: 50%;
+  height: auto;
+}
